@@ -1,0 +1,21 @@
+# ninja log v5
+2	124	6905085216812207	CMakeFiles/DataStructures.dir/main.c.obj	f31a0a5c3577755
+7	84	6905041159290060	CMakeFiles/DataStructures.dir/lists/list.c.obj	313d169b35a2e31d
+1	70	6904329293415277	CMakeFiles/DataStructures.dir/list.c.obj	26e556cd6dae74ff
+52	127	6905085579550882	DataStructures.exe	da291cadadcb2c53
+6	120	6905085216773734	CMakeFiles/DataStructures.dir/lists/queue.c.obj	289cca62a9c7bf93
+10	124	6904279654047938	CMakeFiles/DataStructures.dir/Etc/string.c.obj	c18aaa484705febe
+6	178	6905070146654387	CMakeFiles/DataStructures.dir/lists/Queue.c.obj	c9f599b415a43d66
+2	69	6905061428066294	CMakeFiles/DataStructures.dir/lists/linkedlist.c.obj	fbae3b11c1af9f98
+2	52	6905085578833916	CMakeFiles/DataStructures.dir/lists/Stack.c.obj	c2c71bd160b2ba20
+6	74	6905086828446638	CMakeFiles/DataStructures.dir/lists/stack.c.obj	36adcb799bf2722b
+3	75	6905086828459165	CMakeFiles/DataStructures.dir/main.c.obj	f31a0a5c3577755
+81	169	6905086829375031	DataStructures.exe	da494be64ff3c284
+3	60	6905087176332042	CMakeFiles/DataStructures.dir/main.c.obj	f31a0a5c3577755
+62	137	6905087177060651	DataStructures.exe	da494be64ff3c284
+10	341	6905119336114701	CMakeFiles/DataStructures.dir/main.c.obj	f31a0a5c3577755
+26	346	6905119336125128	CMakeFiles/DataStructures.dir/lists/stack.c.obj	36adcb799bf2722b
+39	347	6905119336114701	CMakeFiles/DataStructures.dir/lists/queue.c.obj	289cca62a9c7bf93
+19	356	6905119336279297	CMakeFiles/DataStructures.dir/lists/list.c.obj	313d169b35a2e31d
+32	370	6905119336412577	CMakeFiles/DataStructures.dir/lists/linkedlist.c.obj	fbae3b11c1af9f98
+371	512	6905119337803270	DataStructures.exe	da494be64ff3c284
